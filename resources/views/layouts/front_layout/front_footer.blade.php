@@ -6,9 +6,9 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="#" class="logo d-flex align-items-center">
-            <span><h3>Advance Repair Service</h3></span>
+            <span><h3>Addvance Repair Service</h3></span>
           </a>
-          <p class="">Advance repair service is smart care of your family life and home appliances repair service and runs 24X7 to serve our customer family.
+          <p class="">Addvance repair service is smart care of your family life and home appliances repair service and runs 24X7 to serve our customer family.
           </p>
           <div class="social-links mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -54,4 +54,10 @@
   </div>
 </footer><!-- End Footer -->
 
-<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+<!-- Call Button -->
+<div class='phone d-flex align-items-center justify-content-center'>
+  <a href="tel:09821908494">
+    <div class="quick-alo-ph-img-circle"></div>
+  </a>
+</div>
+<!-- Call Button --> 

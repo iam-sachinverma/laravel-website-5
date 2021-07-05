@@ -7,12 +7,12 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">We offer modern solutions for Home Appliances need</h1>
+          <h1 data-aos="fade-up">We offer modern solutions for Home Appliances repair</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented engineer who repair and service your home appliances</h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="tel:09821908494" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                <span>Reach Us</span>
+                <span>Call Now</span>
                 <i class="bi bi-arrow-right"></i>
               </a>
             </div>
@@ -36,7 +36,7 @@
           <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <div class="content">
               <h3>Who We Are</h3>
-              <h2>Advance repair service is smart care of your family life and home appliances repair service and runs 24X7 to serve our customer family.</h2>
+              <h2>Addvance repair service is smart care of your family life and home appliances repair service and runs 24X7 to serve our customer family.</h2>
               <p>
                 We are providing expert team of home appliances repair professionals equipment with all needed tools and handles all minor and major problems in your machines repair issues at most affordable prices.
               </p>
@@ -148,7 +148,7 @@
               <i class="ri-discuss-line icon"></i>
               <h3>Washing machine Repair & Service</h3>
               <p>We are providing expert team of Washing Machine Repair professionals equipment with all needed tools and handles all minor and major problems in your washing machines repair issues at most affordable prices. Our team is experience in problem solving issues of any brand of product and type of Washing Machine like Semi-Automatic washing machine repair, fully automatic washing Machine repair, General repair servicing, Replacement of Spin Motor, Drain Pipe, and Gear Box etc.</p>
-              <a href="#book" class="read-more"><span>Book</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="tel:09821908494" class="read-more"><span>Call Now</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -156,17 +156,17 @@
             <div class="service-box purple">
               <i class="ri-discuss-line icon"></i>
               <h3>Refrigerator Repair & Service</h3>
-              <p>Refrigerator repair service is smart care of your family life and home appliances repair service and runs 24X7 to servicing serve the whole Our Customer family. if your fridge is break down then call the Advance service and Repair center it can be create the problem for everyone in Fridge repair family and if its quick to repair, can result in food spoil and waste. So find that your Refrigerator repair is not working or is have a some issues, you get fast assistance for your fridge repair service.</p>
-              <a href="#book" class="read-more"><span>Book</span> <i class="bi bi-arrow-right"></i></a>
+              <p>Refrigerator repair service is smart care of your family life and home appliances repair service and runs 24X7 to servicing serve the whole Our Customer family. if your fridge is break down then call the Addvance service and Repair center it can be create the problem for everyone in Fridge repair family and if its quick to repair, can result in food spoil and waste. So find that your Refrigerator repair is not working or is have a some issues, you get fast assistance for your fridge repair service.</p>
+              <a href="tel:09821908494" class="read-more"><span>Call Now</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="service-box pink">
               <i class="ri-discuss-line icon"></i>
-              <h3>Washing Machine Repair & Service</h3>
+              <h3>Microwave Oven Repair & Service</h3>
               <p>We are repair all brands microwave oven repair and no matter what type of brand of microwave repair search you have, Expert mechanics of professionals equipped with less all necessary tools and spare parts handles all minor and major problem in your microwave repair issues in the most affordable prices. Our team is expert in solve issues of any type of microwave oven repair  like Grill Heater, Glass Plate, Magnetron and Transformer, Changing Capacitor, Fan Motor, etc</p>
-              <a href="#book" class="read-more"><span>Book</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="tel:09821908494" class="read-more"><span>Call Now</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -175,6 +175,88 @@
       </div>
 
     </section><!-- End Services Section -->
+
+
+    
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials">
+
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h2>Reviews</h2>
+          <p>What they are saying about us</p>
+        </header>
+
+        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="200">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>their repair charges is good under my budget</p>
+                <div class="profile mt-auto">
+                  <img src="{{ asset('images/front_images/test.jpg') }}" class="testimonial-img" alt="">
+                  <h3>Neetu Sharma</h3>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  price range of service under budget of middle class
+                </p>
+                <div class="profile mt-auto">
+                  <img src="{{ asset('images/front_images/test.jpg') }}" class="testimonial-img" alt="">
+                  <h3>Mayank Singh</h3>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  customer service is excellent they solve my problem within 1 day
+                </p>
+                <div class="profile mt-auto">
+                  <img src="{{ asset('images/front_images/test.jpg') }}" class="testimonial-img" alt="">
+                  <h3>Virendar Rawat</h3>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  price range of service under budget of middle class
+                </p>
+                <div class="profile mt-auto">
+                  <img src="{{ asset('images/front_images/test.jpg') }}" class="testimonial-img" alt="">
+                  <h3>Krishna</h3>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+
+    </section><!-- End Testimonials Section -->
+
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
